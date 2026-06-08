@@ -145,6 +145,6 @@ When the container starts:
 
 ## Author
 
-Betha Madhulatha
+Betha Venkat Satya Madhu Latha
 
 AWS Cloud & DevOps Portfolio Project
